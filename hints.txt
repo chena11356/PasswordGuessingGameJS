@@ -1,0 +1,57 @@
+Hints
+
+- Divisible by 3? by 7? by 11?
+- Repeats?
+- The last digit is
+- The first digit is
+- The second digit is
+- The third digit is
+- Numbers in correct position
+- Sum of all digits
+- Sum of first and second digits
+- Sum of first and third digits
+- Sum of first and last digits
+- Sum of second and third digits
+- Sum of second and last digits
+- Sum of third and last digits
+
+0
+- Natural log of 1
+- Indices start at?
+- Looks like an orange
+1
+- The first digit of height of Eiffel Tower in stories
+- Natural log of e
+- Last digit of room in which Senate meetings are held
+2
+- e rounded down
+- Number with the most homophones
+- Floor on which Epidemiology classes are held
+3
+- How many Graeae sisters were there?
+- How many Gorgons were there?
+- e rounded up
+4
+- How many main intonations exist in Chinese?
+- Floor on which the Bronx Science swimming pool is located
+- Unlucky number for Chinese
+5
+- The last digit of the year WWII ended
+- Last digit of guidance counselors' offices
+- Number of Latin declensions
+6
+- Number afraid of 7
+- 9/3*2+ln(1)
+- 8th digit of pi
+7
+- Last digit of APHUG room
+- Staircase across Room 322
+- 3rd prime number
+8
+- Sideways glasses
+- Lucky number for Chinese
+- Looks like cell mitosis
+9
+- 3(((0.5x6^2)^0.5)/sqrt(2))
+- Why was 6 afraid of 7? Because 7 ate...
+- Last digit of Social Science Research room
